@@ -1,0 +1,15 @@
+{
+  "data":[ {
+    "menu": "All",
+    "menuHeaderTxt": "Digital Content & Devices",
+    "menuOption": "Amazon Music",
+    "subMenuHeader": "Stream Music",
+    "subMenu": "Podcasts",
+    "searchTxt": "samsung phone",
+    "displayTxt": "Check each product page for other buying options."
+  }],
+  "apidata": [{
+    "name": "Madhu",
+    "update_user_name": "Teresa"
+  }]
+}
